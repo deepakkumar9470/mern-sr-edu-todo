@@ -1,0 +1,11 @@
+Steps to run project local 
+
+
+For Frontend
+1. Go to react-todo folder then yarn 
+2. yarn start 
+
+For Backend
+1. Go to server folder then yarn 
+2. setup mongodb conection 
+3. yarn dev
